@@ -1,13 +1,13 @@
 [
-    { 
-        "file": "context.dlc", 
+    {
+        "file": "context.dlc",
         "title": "Context Logo",
         "buttons": [
             { "title": "Logo", "action": [75,0,4,4] }
         ]
     },
-    { 
-        "file": "hacked.dlc", 
+    {
+        "file": "hacked.dlc",
         "title": "HACKED",
         "buttons": [
             { "title": "Hacked 1", "action": [75,0,3,4] },
@@ -15,17 +15,24 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
+        "file": "noimg2.dlc",
         "title": "Audio only",
         "buttons": [
             { "title": "Audio test ", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "chilli.dlc", 
+        "file": "chilli.dlc",
         "title": "Chilli",
         "buttons": [
             { "title": "Chilli ", "action": [75,0,4,4] }
+        ]
+    }
+    {
+        "file": "HACK1.dlc",
+        "title": "HACK1",
+        "buttons": [
+            { "title": "HACK ", "action": [75,0,5,5] }
         ]
     }
 ]
